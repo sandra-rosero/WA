@@ -1,2 +1,2 @@
 # WA
-Wood Andreson waveforms 
+Wood Anderson waveforms 
